@@ -1,32 +1,119 @@
-[
-				{
-					"dealerId":"Axb123",
-					"review":"very good",
-					"userId":"user1"
-				},
-				{
-					"dealerId":"Axb123",
-					"review":"very good",
-					"userId":"user2"
-				},
-				{
-					"dealerId":"Axb123",
-					"review":"very good",
-					"userId":"user3"
-				},
-				{
-					"dealerId":"Axb123",
-					"review":"waster of time and money",
-					"userId":"user4"
-				},
-				{
-					"dealerId":"Aob123",
-					"review":"Total value of time ",
-					"userId":"user1"
-				},
-				{
-					"dealerId":"Aob123",
-					"review":"Creepy",
-					"userId":"user4"
-				}
+[{
+
+		"dealerId": "Axb123",
+
+		"review": "Stay away from Beat Auto Sales.",
+
+		"userId": "user1"
+
+	},
+
+	{
+
+		"dealerId": "Axb123",
+
+		"review": "These people are crooks and thieves!",
+
+		"userId": "user2"
+
+	},
+
+	{
+
+		"dealerId": "Axb123",
+
+		"review": "Awesome car buying experience ",
+		"userId": "user3"
+
+	},
+
+	{
+
+		"dealerId": "Axb123",
+
+		"review": "Quick and easy",
+
+		"userId": "user4"
+
+	},
+
+	{
+
+		"dealerId": "Aob123",
+
+		"review": "They go the extra mile",
+		"userId": "user1"
+
+	},
+
+	{
+
+		"dealerId": "Aob123",
+
+		"review": "Awesome Experience!",
+
+		"userId": "user4"
+
+	},
+
+	{
+
+		"dealerId": "Axb124",
+
+		"review": "Ran my credit too many times.",
+
+		"userId": "user4"
+
+	},
+
+	{
+
+		"dealerId": "Axb124",
+
+		"review": "Great people and service",
+
+		"userId": "user4"
+
+	},
+
+	{
+
+		"dealerId": "Axb124",
+
+		"review": "This is the absolute WORST car buying experience I have...",
+
+		"userId": "user4"
+
+	},
+
+	{
+
+		"dealerId": "Axb125",
+
+		"review": "Amazing Sales & Management Staff!",
+
+		"userId": "user4"
+
+	},
+
+	{
+
+		"dealerId": "Axb125",
+
+		"review": "Amazing Sales & Management Staff!",
+
+		"userId": "user4"
+
+	},
+
+	{
+
+		"dealerId": "Axb125",
+
+		"review": "Extremely nice until they get your money!!!!",
+
+		"userId": "user4"
+
+	}
+
 ]

@@ -2,10 +2,19 @@
 	[
 		{
 			"dealerId":"Axb123",
-			"dealerName":"PrimeCars"
+			"dealerName":"Ravindu Motors"
 		},
 		{
 			"dealerId":"Aob123",
-			"dealerName":"FirstCars"
+			"dealerName":"Akshay Motors"
+		},
+		{
+			"dealerId":"Axb124",
+			"dealerName":"Raja Motors"
+		},
+		{
+			"dealerId":"Axb125",
+			"dealerName":"Rajshree Motors"
 		}
+
 	]
