@@ -59,10 +59,10 @@ class Car24TechBullzReviewBuilder:
 		total_sum = total_positive_sentiment + total_negative_sentiment
 		rating = 0
 		if total_sum > 0:
-			rating  =  ((sentiment["score"])  /  (total_positive_sentiment + total_negative_sentiment)) % 10
+			rating  =  ((sentiment["score"])  /  (total_positive_sentiment + total_negative_sentiment)) 
 
 		overall_rating = 0.0
-		
+		#TODO Improve logic using mean 	
 		if (rating < 2.0 and rating > 0):
 			overall_rating = 1 
 		elif ( rating >= 2 and rating<3 ):
